@@ -1,6 +1,6 @@
 {
-  "name": "dva-demo",
-  "version": "0.0.0",
+  "name": "egguse-ui",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "antd": "latest",
