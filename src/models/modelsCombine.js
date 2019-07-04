@@ -1,6 +1,5 @@
-import Countor from './Counter'
-import products from './products'
+import Main from '../main/model'
 
 export default [
-    Countor,products
+    Main
 ]
